@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keep Up Movie</string>
+    <string name="action_top_rated">Top Rated Movies</string>
+    <string name="action_popular">Popular Movies</string>
+    <string name="action_upcoming">Upcoming Movies</string>
+    <string name="action_search_movies">Search Movies</string>
+    <string name="poster_content_desc">Movie poster</string>
+    <string name="movie_poster_iv_content_desc">Image view for the movie poster</string>
+    <string name="movie_ratings_label">RATINGS:</string>
+    <string name="movie_synopsis_label">SYNOPSIS:</string>
+    <string name="movie_release_date_label">RELEASE DATE:</string>
+    <string name="action_sort_by">Sort By</string>
+    <string name="ok">OK</string>
+
+
+</resources>

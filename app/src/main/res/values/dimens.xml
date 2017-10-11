@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="progressbar_size">100dp</dimen>
+    <dimen name="poster_width">100dp</dimen>
+    <dimen name="grid_poster_margin">1dp</dimen>
+    <dimen name="detail_movie_poster_iv_height">280dp</dimen>
+    <dimen name="detail_label_margin_left">8dp</dimen>
+    <dimen name="detail_label_margin_top">10dp</dimen>
+    <dimen name="detail_movie_info_top_margin">8dp</dimen>
+    <dimen name="small_margin">1dp</dimen>
+
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="margin_extra_large">40dp</dimen>
+    <dimen name="margin_huge">32dp</dimen>
+    <dimen name="margin_large">25dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_mini">5dp</dimen>
+    <dimen name="margin_tiny">2dp</dimen>
+
+    <dimen name="space_size_4">4dp</dimen>
+    <dimen name="space_size_8">8dp</dimen>
+    <dimen name="space_size_6">6dp</dimen>
+
+
+    <dimen name="font_size_10">10sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_17">17dp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+
+    <dimen name="text_margin">16dp</dimen>
+
+</resources>

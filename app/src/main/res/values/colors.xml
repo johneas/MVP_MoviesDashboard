@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#ba000d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorCatBack">#e43d3b3c</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="darker_gray">@android:color/darker_gray</color>
+    <color name="red">#f00</color>
+
+    <!--Text Color-->
+    <color name="default_text_color_black">@android:color/primary_text_light</color>
+
+    <!--Line divider-->
+    <color name="line_divider_color">#757575</color>
+
+    <color name="cardview_color">#f7f7f7</color>
+    <color name="cardview_background_color">#eaeaea</color>
+
+    <!-- Base Colors -->
+    <color name="black_overlay">#66000000</color>
+    <color name="gray_overlay">#77ffffff</color>
+    <color name="black_alpha_99">#99000000</color>
+
+    <color name="gray">#757575</color>
+    <color name="dark">#565759</color>
+
+    <color name="blue">#0078ff</color>
+    <color name="light_blue">#1982C4</color>
+    <color name="blue_dark">#0076BE</color>
+    <color name="orange">#F15922</color>
+    <color name="green">#60BB46</color>
+    <color name="green_dark">#40631d</color>
+    <color name="red_dark">#9a0005</color>
+    <color name="light_green">#C4D8BF</color>
+    <color name="light_white">#f4f3f3</color>
+    <color name="light_gray">#BCBDC0</color>
+    <color name="light_gray_white">#ECEDED</color>
+    <color name="dark_orange">#D35400</color>
+
+    <!-- Google Logo -->
+    <color name="google_blue">#4285F4</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+    <color name="google_red">#EA4335</color>
+
+
+</resources>

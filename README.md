@@ -12,6 +12,7 @@ Features:
 - Databinding
 - Retrofit
 - Picasso
+- ButtherKnife
 - Rx
 - LeakCanary
 - Stetho

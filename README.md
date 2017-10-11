@@ -15,3 +15,6 @@ Features:
 - Rx
 - LeakCanary
 - Stetho
+
+## License
+©2017 Globant.
